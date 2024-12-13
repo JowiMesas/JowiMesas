@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image/banner.jpg" alt="banner" width="100%">
-</div>
 
 # 👋 ¡Hola! Soy **Joel Mesas Hontoria** 🌐  
 
@@ -49,7 +46,7 @@ Proyecto individual desarrollado en Angular:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JowiMesas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JowiMesas&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JowiMesas&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </div>
 
 ---
