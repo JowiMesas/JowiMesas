@@ -46,7 +46,7 @@ Proyecto individual desarrollado en Angular:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JowiMesas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
+  <br> <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JowiMesas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Most Languages Used" />
   
 </div>
