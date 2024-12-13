@@ -64,7 +64,7 @@ Proyecto individual desarrollado en Angular:
 
 - 📧 **Email**: joel.mesash@gmail.com  
 - 💼 **LinkedIn**: [www.linkedin.com/in/joel-mesas/](https://www.linkedin.com/in/joel-mesas/)  
-- 🌐 **Portfolio**:  - 🌐 **Portfolio**: [joelmesash.wixsite.com/misitio](https://joelmesash.wixsite.com/misitio)  ¡En desarrollo! 🚀  
+- 🌐 **Portfolio**: [joelmesash.wixsite.com/misitio](https://joelmesash.wixsite.com/misitio)  ¡En desarrollo! 🚀  
 
 ---
 
