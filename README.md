@@ -1,8 +1,7 @@
+# 👋 Hi! I'm **Joel Mesas Hontoria** 🌐  
 
-# 👋 ¡Hola! Soy **Joel Mesas Hontoria** 🌐  
-
-💻 **Desarrollador Web en Formación** | 🎓 **Estudiante de DAW2**  
-🌟 **Apasionado por la tecnología y la creatividad** | 🎯 Explorando el mundo del desarrollo web  
+💻 **Web Developer in Training** | 🎓 **DAW2 Student**  
+🌟 **Passionate about technology and creativity** | 🎯 Exploring the world of web development  
 
 ---
 
@@ -17,59 +16,58 @@
 
 ---
 
-## 🛠️ Sobre mí  
+## 🛠️ About Me  
 
-🌱 Actualmente estoy aprendiendo:  
+🌱 I'm currently learning:  
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap.  
-- **Backend**: PHP con Symfony y bases de datos.  
-- **Frameworks**: Angular y diseño responsive.  
+- **Backend**: PHP with Symfony and databases.  
+- **Frameworks**: Angular and responsive design.  
 
-📚 Me interesa:  
-- Crear aplicaciones web innovadoras y funcionales.  
-- Desarrollar proyectos que combinen diseño y programación.  
+📚 I'm interested in:  
+- Creating innovative and functional web applications.  
+- Developing projects that combine design and programming.  
 
 ---
 
-## 🚀 Proyectos Destacados  
+## 🚀 Featured Projects  
 
 ### 🎯 **[M07-PRACTICA-BANKACCOUNT](https://github.com/JowiMesas/M07-PRACTICA-BANKACCOUNT)**  
-Sistema bancario que implementa:  
-- Programación Orientada a Objetos (POO) en PHP.  
-- Diagramas UML, herencia y polimorfismo.  
+Banking system implementing:  
+- Object-Oriented Programming (OOP) in PHP.  
+- UML diagrams, inheritance, and polymorphism.  
 
 ### 🌐 **[PRAOJECT_ANGULAR_INDIVIDUAL](https://github.com/JowiMesas/PRAOJECT_ANGULAR_INDIVIDUAL)**  
-Proyecto individual desarrollado en Angular:  
-- Componentes reutilizables.  
-- Diseño responsive con estilos dinámicos.  
+Individual project developed in Angular:  
+- Reusable components.  
+- Responsive design with dynamic styles.  
 
 ---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JowiMesas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JowiMesas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Most Languages Used" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JowiMesas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Most Languages Used" />
 </div>
 
 ---
 
+## 🛠️ Technologies and Tools  
 
-## 🛠️ Tecnologías y Herramientas  
-
-| **Frontend**            | **Backend**         | **Herramientas**            |
-|--------------------------|---------------------|-----------------------------|
-| HTML5, CSS3, JavaScript  | PHP, Symfony        | Git, Visual Studio Code     |
-| Bootstrap, Angular       | MySQL, APIs REST    | Docker, Postman             |
+| **Frontend**            | **Backend**         | **Tools**                  |
+|-------------------------|---------------------|----------------------------|
+| HTML5, CSS3, JavaScript | PHP, Symfony        | Git, Visual Studio Code    |
+| Bootstrap, Angular      | MySQL, REST APIs     | Docker, Postman            |
 
 ---
-## 📫 Contáctame  
+
+## 📫 Contact Me  
 
 - 📧 **Email**: joel.mesash@gmail.com  
 - 💼 **LinkedIn**: [www.linkedin.com/in/joel-mesas/](https://www.linkedin.com/in/joel-mesas/)  
-- 🌐 **Portfolio**: [joelmesash.wixsite.com/misitio](https://joelmesash.wixsite.com/misitio)  ¡En desarrollo! 🚀  
+- 🌐 **Portfolio**: [joelmesash.wixsite.com/misitio](https://joelmesash.wixsite.com/misitio)  In development! 🚀  
 
 ---
 
 <div align="center">
-  🌟 *Gracias por visitar mi perfil. ¡Sigue explorando y creando!* 🌟  
+  🌟 *Thanks for visiting my profile. Keep exploring and creating!* 🌟  
 </div>
