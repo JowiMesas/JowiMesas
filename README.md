@@ -53,15 +53,17 @@ Proyecto individual desarrollado en Angular:
 
 ---
 
+
 ## 🛠️ Tecnologías y Herramientas  
 
 | **Frontend**            | **Backend**         | **Herramientas**            |
 |--------------------------|---------------------|-----------------------------|
-| HTML5, CSS3, JavaScript  | PHP, Symfony        | Git, Visual Studio Code     |
-| Bootstrap, Angular       | MySQL, APIs REST    | Docker, Postman             |
+| <img src="https://img.icons8.com/color/48/000000/html-5.png"/> **HTML5**  | <img src="https://img.icons8.com/ios/50/000000/php.png"/> **PHP**  | <img src="https://img.icons8.com/ios/50/000000/git.png"/> **Git** |
+| <img src="https://img.icons8.com/color/48/000000/css3.png"/> **CSS3**  | <img src="https://img.icons8.com/ios/50/000000/symfony.png"/> **Symfony** | <img src="https://img.icons8.com/ios/50/000000/visual-studio-code.png"/> **Visual Studio Code** |
+| <img src="https://img.icons8.com/color/48/000000/javascript.png"/> **JavaScript**  | <img src="https://img.icons8.com/ios/50/000000/mysql.png"/> **MySQL** | <img src="https://img.icons8.com/ios/50/000000/docker.png"/> **Docker** |
+| <img src="https://img.icons8.com/ios/50/000000/angular.png"/> **Angular** | <img src="https://img.icons8.com/ios/50/000000/api.png"/> **APIs REST** | <img src="https://img.icons8.com/ios/50/000000/postman-api.png"/> **Postman** |
 
 ---
-
 ## 📫 Contáctame  
 
 - 📧 **Email**: joel.mesash@gmail.com  
