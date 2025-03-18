@@ -101,7 +101,7 @@ I enjoy creating innovative projects that combine design, performance, and funct
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=JowiMesas&icon=5&color=10" alt="Visitor Count" />
+  <img src="https://visitcount.itsvg.in/api?username=JowiMesas&icon=5&color=10" alt="Visitor Count" />
   
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
   
