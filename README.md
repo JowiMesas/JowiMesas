@@ -75,9 +75,9 @@ I enjoy creating innovative projects that combine design, performance, and funct
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JowiMesas&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/><br/>
-  <!-- Usando una sintaxis más confiable para el widget de streak --> 
-  <img src="https://streak-stats.demolab.com?user=JowiMesas&theme=radical" alt="GitHub Streaks"/>
+  
   [![GitHub Streak](https://streak-stats.demolab.com?user=JowiMesas&theme=radical)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JowiMesas&theme=radical" alt="GitHub Streak" /></a>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JowiMesas&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
