@@ -31,6 +31,8 @@ I'm constantly expanding my skills in both frontend and backend development, lev
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JowiMesas&icon=0&color=0)](https://visitcount.itsvg.in)
+##Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=JowiMesas)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
