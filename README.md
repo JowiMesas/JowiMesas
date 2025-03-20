@@ -76,7 +76,7 @@ I enjoy creating innovative projects that combine design, performance, and funct
   <img src="https://github-readme-stats.vercel.app/api?username=JowiMesas&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/><br/>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=JowiMesas&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=JowiMesas&theme=radical)]
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JowiMesas&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
